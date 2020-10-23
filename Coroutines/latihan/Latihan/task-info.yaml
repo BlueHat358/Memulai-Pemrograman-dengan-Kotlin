@@ -4,7 +4,7 @@ files:
   visible: true
   placeholders:
   - offset: 310
-    length: 55
+    length: 93
     placeholder_text: |-
       fun sum(valueA: Int, valueB: Int): Int {
           return 0
@@ -18,10 +18,10 @@ files:
           delay(3000)
           return valueA + valueB
       }
-    selected: false
-    status: Unchecked
-  - offset: 377
-    length: 60
+    selected: true
+    status: Solved
+  - offset: 415
+    length: 98
     placeholder_text: |-
       fun multiple(valueA: Int, valueB: Int): Int {
           return 0
@@ -35,10 +35,10 @@ files:
           delay(2000)
           return valueA * valueB
       }
-    selected: false
-    status: Unchecked
-  - offset: 608
-    length: 9
+    selected: true
+    status: Solved
+  - offset: 684
+    length: 125
     placeholder_text: println()
     initial_state:
       length: 9
@@ -49,8 +49,8 @@ files:
               Result sum: ${resultSum.await()}
               Result multiple: ${resultMultiple.await()}
           """.trimIndent())
-    selected: false
-    status: Unchecked
+    selected: true
+    status: Solved
   text: |-
     /**
      * Untuk menyelesaikan tugas latihan, Anda tidak diperbolehkan mengubah struktur kode yang sudah ada. Kecuali:
@@ -91,5 +91,8 @@ files:
     Result sum: 20
     Result multiple: 400
   learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Fri, 23 Oct 2020 05:49:48 UTC
 record: -1

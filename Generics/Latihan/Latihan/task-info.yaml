@@ -4,7 +4,7 @@ files:
   visible: true
   placeholders:
   - offset: 381
-    length: 9
+    length: 101
     placeholder_text: println()
     initial_state:
       length: 9
@@ -15,10 +15,10 @@ files:
               String result: $stringResult
               Int result: $intResult
           """.trimIndent())
-    selected: false
-    status: Unchecked
-  - offset: 442
-    length: 8
+    selected: true
+    status: Solved
+  - offset: 534
+    length: 102
     placeholder_text: return 0
     initial_state:
       length: 8
@@ -30,8 +30,8 @@ files:
               is String -> args.length
               else -> 0
           }
-    selected: false
-    status: Unchecked
+    selected: true
+    status: Solved
   text: |-
     /**
      * Untuk menyelesaikan tugas latihan, Anda tidak diperbolehkan mengubah struktur kode yang sudah ada. Kecuali:
@@ -98,5 +98,8 @@ files:
         fun test8() = checkFunction(100110)
     }
   learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Fri, 23 Oct 2020 05:44:04 UTC
 record: -1
