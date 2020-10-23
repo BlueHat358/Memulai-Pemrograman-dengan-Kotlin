@@ -1,0 +1,20 @@
+# Project exclude paths
+/.gradle/
+/Control Flow/Enumeration/All of Enum Object/build/
+/Control Flow/Enumeration/Anonymous Class in Enumeration/build/
+/Control Flow/Enumeration/Enum Object Value/build/
+/Control Flow/Enumeration/Enum Position/build/
+/Control Flow/Enumeration/Enumeration with When Expression/build/
+/Control Flow/Enumeration/enumValues/build/
+/Control Flow/Latihan/Latihan/build/
+/Control Flow/Latihan/Latihan/out/
+/Control Flow/Latihan/Latihan/out/production/classes/
+/Control Flow/When Expression/When with Else block/build/
+/Kotlin Fundamental/Data Type/Raw String/build/
+/Kotlin Fundamental/Data Type/Unicode String/build/
+/Kotlin Fundamental/Latihan/Latihan/build/
+/Kotlin Fundamental/Latihan/Latihan/out/
+/Kotlin Fundamental/Latihan/Latihan/out/production/classes/
+/Kotlin Fundamental/Nullable Types/Nullable Types/build/
+/Membangun dan Menjalankan Program Kotlin/Latihan/Latihan 1/build/
+/Membangun dan Menjalankan Program Kotlin/Latihan/Latihan 2/build/
